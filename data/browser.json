@@ -1,0 +1,19 @@
+[
+    {
+        "name": "chrome",
+        "quality": "awesome"
+    },
+    {
+        "name": "firefox",
+        "quality": "a'ight"
+    },
+    {
+        "name": "safari",
+        "quality": "awesome"
+    },
+    {
+        "name": "ie",
+        "quality": "sucky"
+    }
+
+]
